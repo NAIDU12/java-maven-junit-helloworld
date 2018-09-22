@@ -18,7 +18,7 @@ This example demonstrates:
   Point a browser at the output in `target/site/jacoco-both/index.html` to see the report.
 
 ## Conventions
-ok 
+ok ok ok
 This example follows the following basic conventions:
 
 | | unit test | integration test |
